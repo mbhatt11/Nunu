@@ -1,1 +1,7 @@
-Welcome to TechGuftgu
+
+Welcome to TechGuftgu
+Hello, How are you?
+Hey, I am fine and doing good. You say something about you...
+Hello Nunu
+Welcome to TechGuftgu
+>>>>>>> e3a6ef056d8b9719550b4f9e8612c5097f6dd754
