@@ -3,5 +3,8 @@
 Hello, How are you?
 Hey, I am fine and doing good. You say something about you...
 Hello Nunu
+<<<<<<< HEAD
 I am fine.
 >>>>>>> b3be38822b05d852991c644e9387033d83c3b621
+=======
+>>>>>>> b0204519487ca161bdf484bcb024462984916d11
